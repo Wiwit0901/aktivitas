@@ -1,0 +1,26 @@
+body{
+	font-family: century gothic;
+	background-image: url(ba.jpg);
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-size: 100%;
+	font-weight: bold;
+
+}
+.setjadwal{
+box-sizing : border-box;
+width: 100%;
+padding: 10px;
+font-size: 11pt;
+margin-bottom: 20px;
+}
+h1{
+	text-align: center;
+	font-weight: bold;
+}
+ 
+label{
+	font-size: 11pt;
+}
